@@ -1,8 +1,6 @@
 
 🔵 Haluk Cömert	
 
-🔵 25.04.2023
-
 🔵 Website: https://www.ggagro.com
 
 🔵 Diller: HTML CSS JAVASCRIPT
