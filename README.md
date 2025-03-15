@@ -11,7 +11,11 @@
 
 🔵 Not: Bu websitesi Webkent Yazılım firmasında çalışırken yapmış olduğum bir projedir.
 
-https://github.com/user-attachments/assets/9c861254-303e-4b23-90ac-1108a48b1c31
+
+
+https://github.com/user-attachments/assets/3c026237-a98c-42c3-becb-cff9f95ddb3c
+
+
 
 
 
